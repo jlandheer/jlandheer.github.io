@@ -19,7 +19,7 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background-color: $background-color;
+/*    background-color: $background-color; */
     -webkit-text-size-adjust: 100%;
 }
 
@@ -201,4 +201,9 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+.logo {
+	width: 300px;
+	height: 61px;
 }
